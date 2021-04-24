@@ -4,7 +4,11 @@ using System.Text;
 
 namespace GitTest
 {
-    class Test
+    public class Test
     {
+        public Test()
+        {
+            
+        }       
     }
 }
